@@ -1,7 +1,7 @@
 ---
 title:  "Molecular origins of hydrophobicity"
 date:   2013-11-10 10:18:00
-description: Introduction to the Jekyll theme
+description: Insight into the hydrophobic effect through molecular simulations
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
