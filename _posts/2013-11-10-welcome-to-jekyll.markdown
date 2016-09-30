@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Molecular origins of hydrophobicity"
 date:   2013-11-10 10:18:00
 description: Introduction to the Jekyll theme
 ---
